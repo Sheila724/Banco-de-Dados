@@ -13,7 +13,7 @@ Neste projeto foi utilizado o SQL Server Management Studio, pois é bem [popular
 Durante os exemplos utilizei o SQL Server [Microsoft](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) devido a sua facil instalação (Next/Next/Finish)
 
 
-Caso você esteja com **zero** vontade de baixar toda essa caralhada de coisas e configurar.   
+Caso você esteja com **zero** vontade de baixar todas essas coisas e configurar.   
 Você pode simplesmente usar um site como esses:  
 https://sqliteonline.com/ ou https://onecompiler.com/
 
